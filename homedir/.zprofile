@@ -21,3 +21,6 @@ setopt    incappendhistory  #Immediately append to the history file, not just wh
 function precmd () {
   z --add "$(pwd -P)"
 }
+
+# Created by `userpath` on 2020-07-24 13:07:40
+export PATH="$PATH:/Users/raphael/.local/bin"
