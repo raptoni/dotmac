@@ -1,7 +1,7 @@
 {
   "name": "dotfiles",
-  "version": "4.4.3",
-  "description": "atomantic dotfiles for macos",
+  "version": "0.0.1",
+  "description": "Raphi's dotfiles forked from atomantic dotfiles for macos and mathiasbynens dotfiles",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,30 +11,19 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atomantic/dotfiles.git"
+    "url": "git+https://github.com/raptoni/dotmac.git"
   },
-  "keywords": [
-    "dotfiles",
-    "osx",
-    "macos",
-    "automation",
-    "setup",
-    "developer",
-    "iterm",
-    "commandline",
-    "bootstrap"
-  ],
-  "author": "Adam Eivy <atomantic@gmail.com>",
+  "author": "raptoni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atomantic/dotfiles/issues"
+    "url": "https://github.com/raptoni/dotmac/issues"
   },
-  "homepage": "https://github.com/atomantic/dotfiles#readme",
+  "homepage": "https://github.com/raptoni/dotmac#readme",
   "dependencies": {
     "async.series": "0.5.2",
     "inquirer": "6.2.2",
     "node-emoji": "1.10.0",
-    "snyk": "^1.192.3"
+    "snyk": "^1.265.0"
   },
   "snyk": true
 }
