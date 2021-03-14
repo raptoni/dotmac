@@ -73,6 +73,7 @@ module.exports = {
     //'diffmerge',
     'docker', // docker for mac
     'dropbox',
+    'cyberduck',
     //'evernote',
     //'flux',
     'firefox',
@@ -89,6 +90,9 @@ module.exports = {
     'postgres',
     'pgadmin4',
     'signal',
+    'telegram',
+    'teamviewer',
+    'rsyncosx',
     //'macvim',
     //'sizeup',
     //'sketchuo',
