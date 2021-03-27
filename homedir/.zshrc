@@ -66,6 +66,3 @@ eval "$(jenv init -)"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-
-# Created by `userpath` on 2020-07-24 13:07:40
-export PATH="$PATH:/Users/raphael/.local/bin"
